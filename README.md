@@ -1,11 +1,11 @@
 <h1 align="center">Oi 👋, me chamo Ygor</h1>
 <h3 align="center">Aprendendo sobre análise de dados.</h3>
 
-- 🌱 Atualmente estou aprendendo **Power PI, SQL e Python. **
+- 🌱 Atualmente estou aprendendo **Power BI, SQL e Python. **
 
 - 👨‍💻 Todos os meus projetos estarão disponíveis em [(em construção)]((em construção))
 
-- 💬 Me pergunte sobre **SQL, Power PI e Python.**
+- 💬 Me pergunte sobre **SQL, Power BI e Python.**
 
 - 📫 Você me acha através do e- mail **ygor.pardo@gmail.com**
 
